@@ -1,5 +1,5 @@
 body {
-  background-image: url("images/blur-noise.png"), url("images/blur-light.png");
+  background-image: url("https://raw.githubusercontent.com/M0V3/Ombi-omBlur/master/noise.png"), url("https://raw.githubusercontent.com/M0V3/Ombi-omBlur/master/bg-dark.png");
   background-repeat: repeat, no-repeat;
   background-attachment: fixed, fixed;
   background-position: center center, center center;
