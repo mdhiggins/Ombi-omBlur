@@ -58,6 +58,12 @@ a>h4, h4>a, h5>a {
 p {
   color: hsla(0, 0%, 100%, .7);
 }
+.chat_input {
+  color: #2d3436;
+}
+.messages p {
+  color: #2d3436 !important;
+}
 .label {
   margin-left: 0px;
   margin-right: 6px;
