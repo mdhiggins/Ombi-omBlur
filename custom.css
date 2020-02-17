@@ -1,5 +1,5 @@
 body {
-  background-image: url("https://archmonger.github.io/Blackberry-Themes/Resources/blur-noise.png"), url("https://archmonger.github.io/Blackberry-Themes/Resources/blur-light.png");
+  background-image: url("https://raw.githubusercontent.com/mdhiggins/Ombi-omBlur/master/noise.png"), url("https://raw.githubusercontent.com/mdhiggins/Ombi-omBlur/master/blur-light.png");
   background-repeat: repeat, no-repeat;
   background-color: #666666;
   background-attachment: fixed, fixed;
