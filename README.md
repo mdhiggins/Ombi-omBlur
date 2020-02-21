@@ -2,6 +2,12 @@
 
 Theme Modified for Ombi
 
+Fork of theme originally be @xunil75
+
+Intended to mirror Plex's style
+
+Fixed various inconsistencies with original theme, fixed background with fallback colors, and added some padding to various areas
+
 # Paste the code from this custom.css under:
 
 * Settings - Configuration - Customization
