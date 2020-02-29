@@ -556,4 +556,7 @@ ul.nav.navbar-nav.navbar-right li:first-child {
     margin-bottom: 2px;
     display: block;
   }
+  .nav-tabs.nav-justified>li>a {
+    margin-right: 0;
+  }
 }
